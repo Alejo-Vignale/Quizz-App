@@ -1,4 +1,13 @@
 const questions = [
+  {
+    question: "Who wrote the Lord Of The Rings?",
+    answers: [
+      { text: "J.R.R Tolkien", correct: true },
+      { text: "J.K Rowling", correct: false },
+      { text: "Patrick Rothfuss", correct: false },
+      { text: "J.R.R Martin", correct: false },
+    ],
+  },
 
   {
     question: "Which is the largest animal in the world?",
