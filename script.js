@@ -10,6 +10,16 @@ const questions = [
   },
 
   {
+    question: "Which company was originally called Cadabra?",
+    answers: [
+      { text: "Apple", correct: false },
+      { text: "Microsoft", correct: false },
+      { text: "Amazon", correct: true },
+      { text: "Meta", correct: false },
+    ],
+  },
+
+  {
     question: "Which is the largest animal in the world?",
     answers: [
       { text: "Shark", correct: false },
